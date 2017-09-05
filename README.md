@@ -1,4 +1,4 @@
-# testRepository
+ï»¿# testRepository
 test
 
-git—ûK—p‚ÌRepository‚Å‚·B
+gitç·´ç¿’ç”¨ã®Repositoryã§ã™ã€‚
